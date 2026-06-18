@@ -32,7 +32,7 @@ This document dummy
 ## Wednesday Report Template
 It doesn't need to be Wedneday. However, get used to either journaling or keeping a TODO list. Carter used to keep a "Captain's Log" during his PhD. Others like Jira-Styled Kanban Boards. I personally like creating lots of README files.
 
-## W3CIL Hanbook
+## W3CIL Handbook
 The lab handbook with institutional knowledge collected over time. 
 
 Notable contents:
@@ -56,7 +56,7 @@ Be able to answer the following questions:
 - How will you evaluate your solution?
 
 ## How to Read a Research Paper
-Good artists steal. Reuse evaluation methodology and code when possible. They went through the struggle of publishing a paper, so we want to piggy back off their unspoken lessons learned. Otherwise, reading for fun is active procasination. Tinkering >> Reading.
+Good artists steal. Reuse evaluation methodology and code when possible. They went through the struggle of publishing a paper, so we want to piggy back off their unspoken lessons learned. Reading without a concrete question is easy to confuse with progress. Read with a purpose, then go build something. Tinkering >> Reading. 
 
 ## Research Paper Taxonomy
 - Tool Paper
@@ -70,7 +70,19 @@ Good artists steal. Reuse evaluation methodology and code when possible. They we
     * My "Beginner-Friendly Introduction to Fault Injection Attacks" got review bombed
     * See the angr paper for an example of an SoK that took generations to make
 
-![insert meme 2](memes/meme3.png)
+![insert meme 3](memes/meme3.png)
 
 ## IMPORTANT
 At some point, you need to graduate from someone else giving you tasks and learn to navigate ambiguity on your own. Managing ambiguity professionally is what higher positions in the technical corpo ladder do.
+
+![insert meme 4](memes/meme4.jpeg)
+
+## MISC
+
+A few other observations:
+- Papers are means to graduate not an end in themselves
+- Conference reviews are often frustrating
+- Academia is only one part of the broader reasearch and engineering world
+
+
+![insert meme 5](memes/meme5.jpeg)
