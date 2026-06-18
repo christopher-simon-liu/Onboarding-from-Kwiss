@@ -83,7 +83,7 @@ At some point, you need to graduate from someone else giving you tasks and learn
 A few other observations:
 - Papers are means to graduate not an end in themselves
 - Conference reviews are often frustrating
-- Academia is only one part of the broader reasearch and engineering world
+- Academia is only one part of the broader research and engineering world
 
 
 ![insert meme 5](memes/meme5.jpeg)
