@@ -79,17 +79,25 @@ At some point, you need to graduate from someone else giving you tasks and learn
 ![insert meme 4](memes/meme4.jpeg)
 
 ## MISC
-
-A few other observations:
-- Papers are a means, not an end.
-    * Papers are one way to communicate research, build a reputation, and ultimately graduate. The real goal is developing the ability to identify and solve important problems.
+- Papers are a means to graduate, not an end in themselves.
 - Conference reviews are often frustrating.
-    * Learn from reviews, but don't treat them as absolute truth. Even excellent papers receive contradictory, incorrect, or superficial reviews. Rejection is part of the process.
-
-- Academia is only one part of the research ecosystem.
-    * Universities, national labs, startups, and industry research groups all do research, but they optimize for different outcomes. Learn what incentives drive each environment.
-
+- Academia is only one part of the broader research and engineering world.
+- Managing undergraduates is surprisingly difficult. Imagine prompt engineering people
 
 ![insert meme 5](memes/meme5.jpeg)
+
+## Lab Progression
+Undergraduate:
+- Waits for tasks
+
+Research Assistant:
+- Asks good questions
+
+Graduate Student:
+- Develops free will
+
+Full Researcher:
+- Creates annoying unsolved problems professionally
+
 
 **Maybe the real research was the friends along the way**
