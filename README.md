@@ -20,10 +20,9 @@ A lot of research is trying to use old tools/concepts in a new context. It's nor
     │   └── meme3.png
     ├── README.md
     ├── Wednesday Report Template.md
-    ├── W3CIL Handbook.pdf
     ├── HowToReadAPaper: TLDR Triage Attention.pdf
     ├── Carter's Example Tool Paper.pdf
-    ├── My Example Measurement Paper.pdf
+    ├── My Cringe Example Measurement Paper.pdf
     ├── My Cringe Example SoK Paper.pdf
     └── Did you know the orginal angr paper was an SoK?.pdf
 ```
@@ -32,14 +31,6 @@ This document dummy
 
 ## Wednesday Report Template
 It doesn't need to be Wedneday. However, get used to either journaling or keeping a TODO list. Carter used to keep a "Captain's Log" during his PhD. Others like Jira-Styled Kanban Boards. I personally like creating lots of README files.
-
-## W3CIL Handbook
-The lab handbook with institutional knowledge collected over time. 
-
-Notable contents:
-- How to write a research paper (tool)
-- How to write a paper review
-- How to start a new project
 
 ### How to write a research paper
 For your sanity, write the sections out of order. I usually do design, evaluation/figures, overview, related, discussion, intro, conclusion, abstract. The intro is the "mini research paper".
